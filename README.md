@@ -36,7 +36,7 @@ The dataset used in this project includes air quality measurements from various 
 
 ## Screenshots
 ### Dashboard Overview
-![Dashboard Overview]https://imgur.com/MXEdjm7
+![Online Screenshot](https://imgur.com/MXEdjm7)
 
 ### Data Visualization
 ![Data Visualization](images/screenshot2.png)
