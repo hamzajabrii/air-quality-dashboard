@@ -33,3 +33,10 @@ The dataset used in this project includes air quality measurements from various 
    git clone https://github.com/your-username/air-quality-analysis.git 
 2. pip install -r requirements.txt
 3. streamlit run app.py
+
+## Screenshots
+### Dashboard Overview
+![Dashboard Overview][(images/screenshot1.png)](https://imgur.com/a/AktANI1)
+
+### Data Visualization
+![Data Visualization](images/screenshot2.png)
