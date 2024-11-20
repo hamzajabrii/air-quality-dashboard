@@ -31,3 +31,5 @@ The dataset used in this project includes air quality measurements from various 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/air-quality-analysis.git 
+2. pip install -r requirements.txt
+3. streamlit run app.py
