@@ -39,4 +39,4 @@ The dataset used in this project includes air quality measurements from various 
 [Imgur](https://imgur.com/MXEdjm7)
 
 ### Data Visualization
-![Data Visualization](images/screenshot2.png)
+![Data Visualization](img/s2.png)
